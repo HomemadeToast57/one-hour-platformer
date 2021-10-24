@@ -1,2 +1,2 @@
 # one-hour-game
-Game made with C# and Unity in one hour
+Platformer game made in Unity with C# in one hour.
